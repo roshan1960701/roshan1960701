@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![ROSHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshan19760701](https://github.com/roshan1960701/github-readme-stats)
+
 <!---
 roshan1960701/roshan1960701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
