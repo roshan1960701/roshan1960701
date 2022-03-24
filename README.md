@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan1960701&label=Profile%20views&color=0e75b6&style=flat" alt="roshan1960701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan1960701" alt="roshan1960701" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/roshanw2398" target="blank"><img src="https://img.shields.io/twitter/follow/roshanw2398?logo=twitter&style=for-the-badge" alt="roshanw2398" /></a> </p>
 
 - 📫 How to reach me **roshanw1998@gmail.com**
@@ -12,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/roshanw2398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshanw2398" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roshan-wadekar-126552191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshan-wadekar-126552191/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-wadekar-126552191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-wadekar-126552191" height="30" width="40" /></a>
 <a href="https://instagram.com/roshan_2398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshan_2398" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/roshanwadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/roshanwadekar" height="30" width="40" /></a>
+<a href="https://www.behance.net/roshanwadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="roshanwadekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,11 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan1960701&show_icons=true&locale=en" alt="roshan1960701" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1960701&" alt="roshan1960701" /></p>
-
-
-
-
-<!---
-roshan1960701/roshan1960701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
