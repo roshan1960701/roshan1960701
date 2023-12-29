@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshan 😃</h1>
-<h3 align="center">🚀 Passionate about Frontend, Full Stack, and Mobile Development | Certified AWS Cloud Practitioner | MSC. Data Analytics from Dublin Business School, Ireland 🇮🇪 
-  🌟 I'm on a journey to craft seamless user experiences and scalable applications. My expertise spans front-end technologies like React, as well as backend languages such as Node.js and Python. In the mobile realm, I'm an expert in Flutter, specializing in cross-platform app development for enhanced user experiences. 
-  🌐 Continuously learning and evolving in the realm of AWS cloud solutions, I leverage my AWS Cloud Practitioner certification to build secure, scalable, and cost-effective applications.📱 With a focus on mobile development, I thrive on creating responsive, intuitive apps that resonate with users across platforms. My goal is to bridge the gap between code and exceptional user experiences. 🔍 Let's connect and innovate! I'm excited to collaborate on projects that blend technology, data, and creativity to shape the digital world.</h3>
+<h3>
+  🚀 Passionate about Frontend, Full Stack, and Mobile Development | Certified AWS Cloud Practitioner | MSC. Data Analytics from Dublin Business School, Ireland 🇮🇪
+  
+  🌟 I'm on a journey to craft seamless user experiences and scalable applications. My expertise spans front-end technologies like React, as well as backend languages such as Node.js and Python. In the mobile realm, I'm an expert in Flutter, specializing in cross-platform app development for enhanced user experiences.
+  
+  🌐 Continuously learning and evolving in the realm of AWS cloud solutions, I leverage my AWS Cloud Practitioner certification to build secure, scalable, and cost-effective applications.
+  
+  📱 With a focus on mobile development, I thrive on creating responsive, intuitive apps that resonate with users across platforms. My goal is to bridge the gap between code and exceptional user experiences.
+🔍 Let's connect and innovate! I'm excited to collaborate on projects that blend technology, data, and creativity to shape the digital world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan1960701&label=Profile%20views&color=0e75b6&style=flat" alt="roshan1960701" /> </p>
 
