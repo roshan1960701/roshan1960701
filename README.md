@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Passionate about Frontend, Full Stack, and Mobile Development | Certified AWS Cloud Practitioner | MSC. Data Analytics from Dublin Business School, Ireland 🇮🇪
+
+🌟 I'm on a journey to craft seamless user experiences and scalable applications. My expertise spans front-end technologies like React, Vue.js, and Angular, as well as backend languages such as Node.js and Python. I delve into mobile development, ensuring cross-platform performance and user-centric design.
+
+🌐 Continuously learning and evolving in the realm of AWS cloud solutions, I leverage my AWS Cloud Practitioner certification to build secure, scalable, and cost-effective applications.
+
+📱 Passionate about exploring innovative mobile technologies, I thrive on creating responsive, intuitive apps that resonate with users. My goal is to bridge the gap between code and user experience.
+
+🔍 Let's connect and innovate! I'm excited to collaborate on projects that blend technology, data, and creativity to shape the digital world.</h3>
 
 - 📫 How to reach me **wadekar.roshan23@gmail.com**
 
