@@ -32,7 +32,7 @@
 <h3 align="left">AWS Badges:</h3>
 
 [![AWS Certified Cloud Practitioner](https://github.com/roshan1960701/roshan1960701/blob/main/aws-certified-cloud-practitioner%20(1).png)](https://www.credly.com/badges/d92a45a3-eadb-457a-ae4a-40f0e6a15d88/public_url)
-
+[![AWS Educate](https://github.com/roshan1960701/roshan1960701/blob/main/aws-educate-introduction-to-cloud-101%20(3).png)](https://www.credly.com/badges/d464e62b-7cd6-4b55-b2a2-71b9e0bc5353/public_url)
 
 
 <h3 align="left">Languages and Tools:</h3>
